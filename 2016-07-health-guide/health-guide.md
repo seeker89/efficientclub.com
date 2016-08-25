@@ -331,4 +331,4 @@ Other ideas I would like to form an informed opinion on include:
 *   hammocks at work,
 *   anything boosting your wellbeing and productivity at the same time
 
-__If you have experience (and most preferably some hard data), I'l LOVE some feedback in the comments. Thanks !__
+__If you have experience (and most preferably some hard data), I'd LOVE some feedback in the comments. Thanks !__
