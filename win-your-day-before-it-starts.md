@@ -8,7 +8,7 @@ For the last 7 years, every day in my week would start the same way. I would hav
 
 > People plan holidays, careers, families, retirements; and yet they suck at planning something as small as their day.
 
-Then, one day, I just realised: I needed to stop thinking that I was a natural at planning things — I sucked at planning my morning, _literally every day_.
+Then, one day, I just realised: I needed to stop thinking that I was a natural at planning things - I sucked at planning my morning, _literally every day_.
 
 If you're anything like me, here's how to fix that.
 
@@ -77,16 +77,16 @@ Since you're no longer a tired zombie every morning, you can actually plan thing
 
 #### Start a diary
 
-It doesn't have to be every day, and it doesn't have to start with _"my dear diary"_ ;) It's about storing the state of your mind every now and then, to be able to go back, remind yourself, and see the progress that you've made ever since. For me it's a lot of numbers, ideas, lists, that I dump on paper a couple of times a week. Try it.
+It doesn't have to be every day, and it doesn't have to start with _"my dear diary"_B ;) It's about storing the state of your mind every now and then, to be able to go back, remind yourself, and see the progress that you've made ever since. For me it's a lot of numbers, ideas, lists, that I dump on paper a couple of times a week. Try it.
 
 #### Ease yourself into bedtime
 
 This one is hard, because it initially feels like you're stealing some precious time from yourself. But it isn't. The goal is to create an environment with optimal conditions for you to fall asleep. A lot of research went into looking at the effects of staring at fluorescent lights before sleep, and the bottom line is, that if you want to fall asleep smoothly, you'll need some preparation.
 
-If you're a tech person like me, give the programmable light bulbs a try. They are nice especially during the winter, when you can essentially recreate your own dusk long after the sun is gone, by programming the lightbulbs to progressively dim out at a certain time. They are not cheap, but check them out — like [Philips Hue](http://www2.meethue.com/en-gb/) or [LIFX](http://www.lifx.com/).
+If you're a tech person like me, give the programmable light bulbs a try. They are nice especially during the winter, when you can essentially recreate your own dusk long after the sun is gone, by programming the lightbulbs to progressively dim out at a certain time. They are not cheap, but check them out: [Philips Hue](http://www2.meethue.com/en-gb/) or [LIFX](http://www.lifx.com/).
 
 ### Thanks for your time
 
 Thanks for reading. I hope that the 5 minutes you invested yield good results for you.
 
-Have an amazing day !
+Have an amazing dayB !
