@@ -77,7 +77,7 @@ Since you're no longer a tired zombie every morning, you can actually plan thing
 
 #### Start a diary
 
-It doesn't have to be every day, and it doesn't have to start with _"my dear diary"_B ;) It's about storing the state of your mind every now and then, to be able to go back, remind yourself, and see the progress that you've made ever since. For me it's a lot of numbers, ideas, lists, that I dump on paper a couple of times a week. Try it.
+It doesn't have to be every day, and it doesn't have to start with _"my dear diary"_ ;) It's about storing the state of your mind every now and then, to be able to go back, remind yourself, and see the progress that you've made ever since. For me it's a lot of numbers, ideas, lists, that I dump on paper a couple of times a week. Try it.
 
 #### Ease yourself into bedtime
 
@@ -89,4 +89,4 @@ If you're a tech person like me, give the programmable light bulbs a try. They a
 
 Thanks for reading. I hope that the 5 minutes you invested yield good results for you.
 
-Have an amazing dayB !
+Have an amazing day !
