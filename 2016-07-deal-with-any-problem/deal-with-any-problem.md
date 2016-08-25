@@ -2,7 +2,7 @@
 
 > My mama always said, 'Life was like a box of chocolates. You never know what you're gonna get' - Forrest Gump
 
-They say that problems come in threes. That must be an average on a good day. Sometimes they gang up on us in an act of organised crime straight from The Godfather and it feels like there is no way out. But the appearances are often misleading. Like a child afraid of the dark, we fear what we don't know or understand. It's natural, that's how our brains are wired. The only way to take control of the situation is to demystify, understand and simplify it. Everybody with the right attitude can achieve that. **Take these 3 straightforward steps to move towards the happier you.**  
+They say that problems come in threes. That must be an average on a good day. Sometimes they gang up on us in an act of organised crime straight from The Godfather and it feels like there is no way out. But the appearances are often misleading. Like a child afraid of the dark, we fear what we don't know or understand. It's natural, that's how our brains are wired. The only way to take control of the situation is to demystify, understand and simplify it. Everybody with the right attitude can achieve that. **Take these 3 straightforward steps to move towards the happier you.**
 
 #### 1\. Demystify - Give The Enemy A Face
 
@@ -19,7 +19,7 @@ The next step consists of discovering and/or deciding how important these things
 
 > perceived shittiness coefficient = sum(all the numbers you've just attributed)
 
-So in our case, it's 1+2+3+4=10. The scene is now set. Time for the big move.  
+So in our case, it's 1+2+3+4=10. The scene is now set. Time for the big move.
 
 #### 3\. Divide And Conquer
 
@@ -28,21 +28,21 @@ Finally, we'll visualise what is worth worrying about, what isn't and how much l
 *   in your control
 *   outside of your control
 
-If you are having trouble deciding whether something is in your control or not, chances are you need to divide it into smaller pieces. Write down what you can reasonably expect yourself to do - and attach it to the set 1) - and the remainder to the set 2).   Do it now. And when you're ready, here's the punch line:
+If you are having trouble deciding whether something is in your control or not, chances are you need to divide it into smaller pieces. Write down what you can reasonably expect yourself to do - and attach it to the set 1) - and the remainder to the set 2). Do it now. And when you're ready, here's the punch line:
 
 > None of the things outside of your control deserve your attention.
 
-Let me say it again. Nothing outside of your control should be spent time on. The only energy well spent on things we can't change is to analyse and learn from them. To see what the possible outcomes are, acknowledge them, and then stop thinking about it. Let the bad things happen, when they have to happen. Think of your time as of something very precious. So precious in fact, that no money can buy you more. And since you can't increase the number of minutes in a day, the only way to have more time is to eliminate everything that isn't beneficial to you or the ones you care for. Worrying about things you don't control is detrimental - by definition, it can't bring you any good. Quit worrying and focus on things which do matter and can be changed. Quit it and see how much of your mental chaos is immediately gone.   Now, if we sum up the weights of the things we do have control over (and therefore need to work our asses off doing) we will get the real shittiness ratio.
+Let me say it again. Nothing outside of your control should be spent time on. The only energy well spent on things we can't change is to analyse and learn from them. To see what the possible outcomes are, acknowledge them, and then stop thinking about it. Let the bad things happen, when they have to happen. Think of your time as of something very precious. So precious in fact, that no money can buy you more. And since you can't increase the number of minutes in a day, the only way to have more time is to eliminate everything that isn't beneficial to you or the ones you care for. Worrying about things you don't control is detrimental - by definition, it can't bring you any good. Quit worrying and focus on things which do matter and can be changed. Quit it and see how much of your mental chaos is immediately gone. Now, if we sum up the weights of the things we do have control over (and therefore need to work our asses off doing) we will get the real shittiness ratio.
 
 > real shittiness ratio = sum(what we control)/perceived shittiness ratio
 
-So in our example, the real shittiness ratio = 0.5 What does it mean ? It means that nearly half of the things you were unhappy about were not actionable. Well done. You just saved yourself 50% of the trouble. Another way of looking at it is that you have just freed 50% of your time and/or attention to spend on other things, so that you can kick more ass. Do what you need to do, better, with more energy. Don't lose time on things which don't deserve it.  
+So in our example, the real shittiness ratio = 0.5 What does it mean ? It means that nearly half of the things you were unhappy about were not actionable. Well done. You just saved yourself 50% of the trouble. Another way of looking at it is that you have just freed 50% of your time and/or attention to spend on other things, so that you can kick more ass. Do what you need to do, better, with more energy. Don't lose time on things which don't deserve it.
 
 #### Plan for the worst, hope for the best
 
 > We must accept finite disappointment, but never lose infinite hope. Martin Luther King, Jr.
 
-Accepting bad things happen sucks. Getting a parking ticket, because you missed a sign, sucks. Losing someone important in your life sucks infinitely more. But at the end of the day, whatever happened, happened. And the wisest thing to do is to learn from it, and move forward.  
+Accepting bad things happen sucks. Getting a parking ticket, because you missed a sign, sucks. Losing someone important in your life sucks infinitely more. But at the end of the day, whatever happened, happened. And the wisest thing to do is to learn from it, and move forward.
 
 > The bitterness only holds you back. Don't let anything hold you back.
 
