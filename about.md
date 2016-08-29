@@ -10,12 +10,13 @@ We will talk __work, productivity, routines, health and wellness, planning, entr
 
 ## How to consume EfficientClub ?
 
-The best way is to subscribe to the newsletter, and never miss an important bit again.
+The best way is to [subscribe to the newsletter](), and never miss an important bit again.
 
+You can also read EfficientClub on [medium](https://medium.com/efficientclub) and pin it on [pinterest](https://uk.pinterest.com/efficientclub/).
 
 # About the author
 
-__Mikolaj Pawlikowski__ is a software engineer, entrepreneur and an adept of the lifelong learning philosophy. Obsessed with making things efficient. Student of what makes people successful. Passionate about what drives people and teams to their destinations. Relentless in studying happiness.
+__Mikolaj Pawlikowski__ is a software engineer, entrepreneur and an adept of the _never-stop-learning_ philosophy. Obsessed with making things efficient. Student of what makes people successful. Passionate about what drives people and teams. Relentless in studying happiness.
 
 
 ## Get in touch
