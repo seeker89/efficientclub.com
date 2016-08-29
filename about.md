@@ -16,7 +16,7 @@ You can also read EfficientClub on [medium](https://medium.com/efficientclub) an
 
 ## About the author
 
-<img class="alignleft wp-image-52 size-thumbnail" src="https://efficientclub.com/wp-content/uploads/2016/08/me-150x150.png" alt="Mikolaj Pawlikowski" width="150" height="150" /> __Mikolaj Pawlikowski__ is a software engineer, entrepreneur and an adept of the _never-stop-learning_ philosophy. Obsessed with making things efficient. Student of what makes people successful. Passionate about what drives people and teams. Relentless in studying happiness.
+__Mikolaj Pawlikowski__ is a software engineer, entrepreneur and an adept of the _never-stop-learning_ philosophy. Obsessed with making things efficient. Student of what makes people successful. Passionate about what drives people and teams. Relentless in studying happiness.
 
 
 ### Get in touch
