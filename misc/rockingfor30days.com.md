@@ -34,8 +34,7 @@ This is converted to markdown from [http://rockingfor30days.com](http://rockingf
 | Rope Pushdown |  4 |  12 |  48 |  Triceps – Perform all 3 as a Tri Set, Rest One Minute Between |
 | Rope Overhead Tricep Extensions |  4 |  12 |  48 |   |
 | Triceps Dips to Failure |  4 |  12 |  48 |
-| Stir the Pot (Swiss Ball Plank Rotations) |  3 |  4 Rotations Left, 4 Right |  24 |  Abs – Perform all 3 as a Tri Set, Rest One Minute Between  
-_I added Abs in Week 2 after feeling like it was missing_ |
+| Stir the Pot (Swiss Ball Plank Rotations) |  3 |  4 Rotations Left, 4 Right |  24 |  Abs – Perform all 3 as a Tri Set, Rest One Minute Between
 | Russian Twist (Holding a Plate) |  3 |  12 |  36 |   |
 | Leg Raises (Dip Machine) |  3 |  15 |  45 |
 
