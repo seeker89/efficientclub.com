@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## What's EfficientClub ?
 
-You can use the [editor on GitHub](https://github.com/seeker89/efficientclub.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The most important _asset_ in one's life is their __time__ - the one thing no money can buy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I care about optimizing _the right things_, so that I can spend more time on what I really want. More time with the people I love. More time for my curiosity. Health. Spirituality. Investments. Travel.
 
-### Markdown
+I started __EfficientClub__ to look for ways to be more efficient at life.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will talk __work, productivity, routines, health and wellness, planning, entrepreneurship, finance__.
 
-```markdown
-Syntax highlighted code block
+### How to consume EfficientClub ?
 
-# Header 1
-## Header 2
-### Header 3
+EfficientClub is hosted on github, and reposted on [medium](https://medium.com/efficientclub).
 
-- Bulleted
-- List
+## About me
 
-1. Numbered
-2. List
+Hi, I'm __Miko Pawlikowski__ and I'm a software engineer, entrepreneur and a lifelong learner. During the day, I build software, teams and relationships. At night, I write about how to make big changes with a little change.
 
-**Bold** and _Italic_ and `Code` text
+### Get in touch
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seeker89/efficientclub.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can shoot me an email at _mikolaj at pawlikowski.pl_, or hit me on [twitter](https://twitter.com/mikopawlikowski)
